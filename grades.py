@@ -1,5 +1,3 @@
-# Student/grades.py
-
 def Avg(grades):
     """محاسبه معدل نمرات"""
     if not grades:
